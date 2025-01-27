@@ -6,7 +6,7 @@
   "scripts": {
     "build": "echo 'no building for @allnulled/lsw-circuiter'",
     "test": "npx mocha test.js",
-    "versionate": "echo 'no versionate for @allnulled/lsw-circuiter'",
+    "versionate": "echo 'no versionate for @allnulled/lsw-circuiter'"
   },
   "keywords": [
     "async",
